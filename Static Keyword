@@ -1,0 +1,20 @@
+Class Student {
+Int roll;
+String name;
+Static String collage_name="xyz";
+}}
+Student (int x, string y)
+{Roll = x;
+Name = y;
+}
+Void display ()
+{ System.out.prinln("Roll="+Roll+"Name"+name+"collage name"+ cname);
+}}
+Class demo
+{Public static void main (String args[])
+{
+Student aa= new student(18,"lateef");
+Student bb= new student (77,"Abc");
+aa.display();
+bb.display();
+}}
