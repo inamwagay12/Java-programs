@@ -13,7 +13,7 @@ Void display ()
 Class demo
 {Public static void main (String args[])
 {
-Student aa= new student(18,"lateef");
+Student aa= new student(30,"Inam");
 Student bb= new student (77,"Abc");
 aa.display();
 bb.display();
